@@ -1,0 +1,18 @@
+package practise;
+
+public class Example7 
+{
+
+	public static void main(String[] args) 
+	{
+		int i=0;
+		while(i<5)
+		{
+			System.out.println("welcome");
+			i++;
+		}
+	
+
+	}
+
+}
